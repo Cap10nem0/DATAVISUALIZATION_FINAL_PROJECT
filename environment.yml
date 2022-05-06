@@ -5,3 +5,9 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
+  - panel
+  - wordcloud
+  - PIL
+  - seaborn
+  - ipywidgets
+  - collections
